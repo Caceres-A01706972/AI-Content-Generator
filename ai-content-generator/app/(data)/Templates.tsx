@@ -46,7 +46,7 @@ export default[
         desc:'An AI tool that generates blog topics ideas depends on your blog information',
         category:'Blog',
         icon:'https://cdn-icons-png.flaticon.com/128/4186/4186534.png',
-        aiPrompt:'Generate Blog topic ideas based on a Niche, give it in Rich Text Format',
+        aiPrompt:'Generate top 5 Blog topic ideas based on a Niche, give it in Rich Text Format',
         slug:'blog-topic-idea',
         form: [
             {
